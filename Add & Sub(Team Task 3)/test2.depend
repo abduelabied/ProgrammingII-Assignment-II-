@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1541020583 source:c:\users\user\desktop\test2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+	"Bigint.h"
+
+1541020047 c:\users\user\desktop\test2\bigint.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+
+1541057589 source:c:\users\user\desktop\assignment 2\add & sub\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+	"Bigint.h"
+
+1541057936 c:\users\user\desktop\assignment 2\add & sub\bigint.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+
